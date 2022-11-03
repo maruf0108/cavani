@@ -1,0 +1,139 @@
+.shaklcha {
+    width:400px;
+    height:530px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-image: url("https://cavani-react.vercel.app/img/about/1.jpg");
+    background-size: cover; 
+}
+.bor {
+    margin-top: -570px;
+    margin-left: 50px;
+    background-size: cover;
+    font-size: 25px;
+}
+
+.ha {
+    margin-top: 200px;
+    margin-left: 500px;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.hk {
+    width: 100px;
+    height: 5px;
+    background-color: black;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+.da {
+    margin-top: 50px;
+    margin-left: 500px;
+    font-size: 30px;
+}
+
+.hj {
+    margin-top: 50px;
+    margin-left: 500px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 10px 5px 10px 5px;
+}
+
+.hj:hover {
+    margin-top: 50px;
+    margin-left: 500px;
+    font-size: 30px;
+    background-color: white;
+    color: black;
+}
+
+.navbar-nav {
+    position: absolute;
+    margin-top: -525px;
+    margin-left: 650px;
+    letter-spacing: 5px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    
+}
+
+.active {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: -50px;
+}
+
+.active:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.active1 {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.active1:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.active2 {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.active2:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.active3 {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.active3:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.active4 {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.active4:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.active5 {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.active5:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+.kl {
+    margin-top: 75px;
+    margin-left: 80px;
+}
